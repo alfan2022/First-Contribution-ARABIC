@@ -2310,7 +2310,6 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2321,10 +2320,7 @@
             </a>
             <br>            
             <table>
-                <tr> 
-                    
-                   
-                    
+                <tr>  
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Yarob50">
