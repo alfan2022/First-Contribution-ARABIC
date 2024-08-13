@@ -2316,7 +2316,7 @@
             <a href="https://github.com/Yarob50">
                 <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
                 <br>
-                <h2>Brother Yarob/h2>
+                <h2>Brother Yarob</h2>
             </a>
             <br>            
             <table>
